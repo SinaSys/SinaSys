@@ -16,7 +16,7 @@ ate on ...
 - ⚡ Fun fact: ...
 -->
 
-## Tools and IDEs :
+## 🧩 Tools and IDEs :
 <img src="https://user-images.githubusercontent.com/60136319/158664079-f1d43630-f410-4865-8121-bf5d846cae00.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158664305-5233c9f8-a544-43a1-b361-b357d48f5802.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158664547-3e840d50-8f2b-4d10-8905-b5943bf85feb.svg"/> &nbsp;
@@ -26,7 +26,7 @@ ate on ...
 <img src="https://user-images.githubusercontent.com/60136319/158664765-236eaebf-8023-4ae9-b20c-f845ad3e441f.svg"/> &nbsp;
 
 
-## Skills and Experience : 
+## 🔑 Skills and Experience : 
 <img src="https://user-images.githubusercontent.com/60136319/158672698-4d843055-6924-4979-b81b-3e3c94abe23f.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158672751-692e5a95-28e0-4adf-a2ae-c9f0edcd6739.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158672795-cef2dfed-4128-46f1-920f-15b2e1e4ff6b.svg"/> &nbsp;
