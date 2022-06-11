@@ -25,6 +25,9 @@ ate on ...
 <img src="https://user-images.githubusercontent.com/60136319/158686899-1fd1ebd9-bec8-451b-8818-75d1681e707f.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158664733-8d6704e3-9e3c-4c18-86e8-1245ac510d4c.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158664765-236eaebf-8023-4ae9-b20c-f845ad3e441f.svg"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/60136319/173196797-b176ec43-333b-4d89-8749-7e5b0184e6a1.svg"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/60136319/173196814-f20766d2-7b44-4f48-898d-23e508357c40.svg"/> &nbsp;
+
 
 
 ## 🔑 Skills and Experience : 
