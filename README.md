@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on new open source project "Go rest" using flutter, dio, get_it and more!
 
 <!--
 **SinaSys/SinaSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +31,7 @@ ate on ...
 
 
 
-## 🔑 Skills and Experience : 
+## 🔑 Tech Stack : 
 <img src="https://user-images.githubusercontent.com/60136319/158672698-4d843055-6924-4979-b81b-3e3c94abe23f.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158672751-692e5a95-28e0-4adf-a2ae-c9f0edcd6739.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158672795-cef2dfed-4128-46f1-920f-15b2e1e4ff6b.svg"/> &nbsp;
