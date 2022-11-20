@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on new open source project "Go rest" using flutter, dio, get_it and more!
+
 
 <!--
 **SinaSys/SinaSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
