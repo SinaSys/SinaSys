@@ -15,7 +15,7 @@ ate on ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🧩 Tools and IDEs :
 <img src="https://user-images.githubusercontent.com/60136319/158664079-f1d43630-f410-4865-8121-bf5d846cae00.svg"/> &nbsp;
@@ -55,6 +55,6 @@ ate on ...
 
 
 
-
+-->
 
 
